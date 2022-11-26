@@ -1,0 +1,28 @@
+body {
+    background-color: antiquewhite;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+.box {
+    background-color: aquamarine;
+    color: blue;
+    height: 200px;
+    width: 200px;
+    border: 1px solid brown;
+    display: inline-block;
+}
+
+.box2 {
+    background: linear-gradient(90deg, rgb(113, 196, 172) 0%, rgb(215, 125, 186) 100%);
+    color: white;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: 1px solid rgb(0, 0, 0);
+    vertical-align: top;
+    margin-left: 30px;
+}
